@@ -1,0 +1,26 @@
+a {
+  color: peru;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  max-width: 660px;
+  margin-top: 8px;
+}
+h3 {
+  font-size: xx-large;
+  background-color: lightsalmon;
+  font-weight: 900;
+}
+.nappi {
+  background-color: yellowgreen;
+  color: white;
+  padding: 6px;
+  display: inline-block;
+}
+input {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+
